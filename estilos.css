@@ -1,0 +1,86 @@
+/* Creando nuestra hoja de estilos */
+
+body
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	text-align:center;
+	
+}
+
+p
+{
+  font-size:14px;
+}
+
+#margen_izquierdo
+{
+	float : left;
+	background-color: gray;
+	width: 20%;
+	height:900px;
+	position: relative;
+	margin-right: 5px ;
+
+}
+
+#margen_derecho
+{
+	float:right;
+	background-color: gray;
+	width: 20%;
+	height:900px;
+	position: relative;
+	margin-left: 5px
+	
+}
+
+#login  
+{
+font-weight: bold;
+font-size: 20px;
+font-style: oblique;
+line-height: px;
+padding:10px;
+color:white;
+
+	
+}
+
+
+#cabecera
+{
+	background-color: black;
+	margin : 5px 5px 5px 5px;
+	padding:10px;
+}	
+
+#opciones 
+{
+	background-color: blue;
+	padding:10px;
+}
+#opciones a
+{
+	margin: 10px 10px 10px 25px;
+	color:yellow;
+	text-decoration: none;
+	
+}
+#opciones a:hover
+{
+	color : white;
+	text-decoration: underline;
+}
+
+#contenido
+{
+	
+	border: solid 5px red;
+    margin-left: 265px;
+	top : center;
+	height: 650px;
+	width: 59.3%;
+	background-color : none;
+	
+}
